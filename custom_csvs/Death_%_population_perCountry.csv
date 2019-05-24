@@ -1,83 +1,82 @@
-,Country,% Min,% Max
-0,Albania,2.8,
-1,Armenia,13.6,
-2,Australia,0.58,
-3,Austria,5.56,
-4,Azerbaijan,9.1,
-5,Belarus,25.3,
-6,Belgium,1.05,
-7,Brazil,0.0,
-8,Bulgaria,0.33,
-9,Burma (British colony),1.57,
-10,Canada,0.38,
-11,China  (1937–1945),2.9,3.86
-12,Cuba,0.0,
-13,Czechoslovakia (in postwar 1945–1992 borders),2.33,2.43
-14,Denmark,0.16,
-15,Dutch East Indies,4.3,5.76
-16,Egypt,0.0,
-17,Estonia,7.6,
-18,Ethiopia,0.56,
-19,Finland,2.3,2.57
-20,France (including colonies),1.44,
-21,French Indochina,4.05,8.11
-22,Georgia,8.3,
-23,Germany (within 1937 borders) ,8.23,
-24,Greece,7.02,11.17
-25,Guam,4.39,8.77
-26,Hungary (figures in 1938 borders not including territories annexed in 1938–41),5.08,
-27,Iceland,0.17,
-28,India,0.58,
-29,Iran,0.0,
-30,Iraq,0.01,
-31,Ireland,0.0,
-32,Italy (in postwar 1947 borders),1.11,1.16
-33,Japan,3.5,4.34
-34,Kazakhstan,10.7,
-35,Korea (Japanese colony),1.99,2.19
-36,Kyrgyzstan,7.8,
-37,Latvia,13.7,
-38,Lithuania,12.7,
-39,Luxembourg,1.69,
-40,Malaya & Singapore,1.95,
-41,Malta (British),0.55,
-42,Mexico,0.0,
-43,Moldova,6.9,
-44,Mongolia,0.04,
-45,Nauru (Australian),14.7,
-46,Nepal,,
-47,Netherlands,2.41,
-48,New Zealand,0.72,
-49,Newfoundland (British),0.03,
-50,Norway,0.35,
-51,Papua and New Guinea (Australian),1.16,
-52,Philippines (U.S. Territory),3.48,
-53,Poland (within 1939 borders),16.93,17.22
-54,Portuguese Timor,8.33,14.58
-55,Romania (in postwar 1945 borders),3.13,
-56,Ruanda-Urundi (Belgian),0.09,1.3
-57,Russia,12.7,
-58,South Africa,0.12,
-59,South Pacific Mandate (Japanese Colony),7.87,
-60,Spain,0.0,
-61,Sweden,0.03,
-62,Switzerland,0.0,
-63,Tajikistan,7.8,
-64,Thailand,0.05,
-65,Turkey,0.0,
-66,Turkmenistan,7.7,
-67,Ukraine,16.3,
-68,United Kingdom (including Crown Colonies),0.94,
-69,United States,0.32,
-70,Uzbekistan,8.4,
-71,Yugoslavia,6.63,10.97
-72,Czech Republic,2.33,2.43
-73,Slovak Republic,2.33,2.43
-74,Serbia (Yugoslavia),6.63,10.97
-75,Bosnia and Herzegovina (Yugoslavia),6.63,10.97
-76,Macedonia (Yugoslavia),6.63,10.97
-77,Slovenia (Yugoslavia),6.63,10.97
-78,Croatia (Yugoslavia),6.63,10.97
-79,Kosovo (Yugoslavia),6.63,10.97
-80,Montenegro (Yugoslavia),6.63,10.97
-81,Portugal,0.0,0.0
+,Country,Min,Max,% Min,% Max
+0,Albania,30000.0,,2.8,
+1,Armenia,180000.0,,13.6,
+2,Australia,40400.0,,0.58,
+3,Austria,370000.0,,5.56,
+4,Azerbaijan,300000.0,,9.1,
+5,Belarus,2290000.0,,25.3,
+6,Belgium,88000.0,,1.05,
+7,Brazil,2000.0,,0.0,
+8,Bulgaria,21500.0,,0.33,
+9,Burma ,252600.0,,1.57,
+10,Canada,43600.0,,0.38,
+11,China  ,15000000.0,20000000.0,2.9,3.86
+12,Cuba,100.0,,0.0,
+13,Czechoslovakia ,340000.0,355000.0,2.33,2.43
+14,Denmark,6000.0,,0.16,
+15,Dutch East Indies,3000000.0,4000000.0,4.3,5.76
+16,Egypt,1100.0,,0.0,
+17,Estonia,80000.0,,7.6,
+18,Ethiopia,100000.0,,0.56,
+19,Finland,85000.0,95000.0,2.3,2.57
+20,France ,600000.0,,1.44,
+21,French Indochina,1000000.0,2200000.0,4.05,8.11
+22,Georgia,300000.0,,8.3,
+23,Germany  ,5700000.0,,8.23,
+24,Greece,507000.0,807000.0,7.02,11.17
+25,Guam,1000.0,2000.0,4.39,8.77
+26,Hungary ,464000.0,,5.08,
+27,Iceland,200.0,,0.17,
+28,India,2200000.0,,0.58,
+29,Iran,200.0,,0.0,
+30,Iraq,700.0,,0.01,
+31,Ireland,100.0,,0.0,
+32,Italy ,492400.0,514000.0,1.11,1.16
+33,Japan,2500000.0,3100000.0,3.5,4.34
+34,Kazakhstan,660000.0,,10.7,
+35,Korea ,483000.0,533000.0,1.99,2.19
+36,Kyrgyzstan,120000.0,,7.8,
+37,Latvia,260000.0,,13.7,
+38,Lithuania,375000.0,,12.7,
+39,Luxembourg,5000.0,,1.69,
+40,Malaya & Singapore,100000.0,,1.95,
+41,Malta ,1500.0,,0.55,
+42,Mexico,100.0,,0.0,
+43,Moldova,170000.0,,6.9,
+44,Mongolia,300.0,,0.04,
+45,Nauru ,500.0,,14.7,
+46,Nepal,0.0,,0.0,
+47,Netherlands,210000.0,,2.41,
+48,New Zealand,11700.0,,0.72,
+49,Newfoundland ,1200.0,,0.03,
+50,Norway,10200.0,,0.35,
+51,Papua and New Guinea ,15000.0,,1.16,
+52,Philippines ,557000.0,,3.48,
+53,Poland ,5900000.0,6000000.0,16.93,17.22
+54,Portuguese Timor,40000.0,70000.0,8.33,14.58
+55,Romania ,500000.0,,3.13,
+56,Ruanda-Urundi ,36000.0,50000.0,0.09,1.3
+57,Russia,13950000.0,,12.7,
+58,South Africa,11900.0,,0.12,
+59,South Pacific Mandate ,10000.0,,7.87,
+60,Spain,0.0,,0.0,
+61,Sweden,2100.0,,0.03,
+62,Switzerland,100.0,,0.0,
+63,Tajikistan,120000.0,,7.8,
+64,Thailand,7600.0,,0.05,
+65,Total USSR,26600000.0,,13.7,
+66,Turkey,200.0,,0.0,
+67,Turkmenistan,100000.0,,7.7,
+68,Ukraine,6850000.0,,16.3,
+69,United Kingdom ,450900.0,,0.94,
+70,United States,419400.0,,0.32,
+71,Uzbekistan,550000.0,,8.4,
+72,Czech Republic,170000.0,177500.0,2.33,2.43
+73,Slovak Republic,170000.0,177500.0,2.33,2.43
+74,Serbia ,91666.66666666667,,8.4,
+75,Bosnia and Herzegovina ,91666.66666666667,,8.4,
+76,Macedonia ,91666.66666666667,,8.4,
+77,Slovenia ,91666.66666666667,,8.4,
+78,Croatia ,91666.66666666667,,8.4,
+79,Montenegro ,91666.66666666667,,8.4,
+80,Portugal,0.0,0.0,0.0,0.0
